@@ -18,9 +18,7 @@ Welcome to the Healthy Eating Hub, a web application designed to help you make h
   - [Installation](#installation)
 - [Usage](#usage)
 - [Calculator](#calculator)
-- [Contact](#contact)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
